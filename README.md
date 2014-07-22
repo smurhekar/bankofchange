@@ -13,6 +13,7 @@ As a: Customer, I can enter only 1 note @ a time. Maximum note value is 1000 Rs.
 3.	If the note I inserted is the lowest then it should indicate the same.
 4.	If banker hasn’t deposited any change in the first place it should not allow user to insert any note, indicating that the machine is down. 
  
+
 Further enhancements:-
 1.	As soon as the note’s count is 0, it should inform the banker asking for refill.
 2.	It should give user an option to say that `Not all denominations should be same`. As an example: If I insert a 500 Rs. Bill, then I expect 100 X 4 + 50 X 2. 
