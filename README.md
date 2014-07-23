@@ -1,6 +1,7 @@
-# BankOfChange!!
+# The BankOfChange!!
 
-Currently my bank is giving the change for *free of cost*. Say, if you give me a 100 Rs. Note, then based on the available denominations, I should give you a change with denominations < 100 Rs. Notes.
+The bank with new concept.
+We are the bank that gives the change for *free of cost*. Say, if you give me a 100 Rs. Note, then based on the available denominations, I should give you a change with denominations < 100 Rs. Notes.
 It’s an automated system.
 
 As a: Banker, in the morning, I should key in the number of denominations & number of available counts.  I may choose to enter all the notes or some of the ntoes. 
